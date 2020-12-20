@@ -34,3 +34,4 @@ module servus
       .q      (q));
 
 endmodule
+`default_nettype wire

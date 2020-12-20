@@ -237,3 +237,4 @@ module serv_decode
 
 
 endmodule
+`default_nettype wire

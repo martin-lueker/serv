@@ -23,3 +23,4 @@ module servant_ecp5_clock_gen
       .locked (locked));
 
 endmodule
+`default_nettype wire

@@ -81,3 +81,4 @@ module serving_ram
 
    assign o_rdata = rdata;
 endmodule
+`default_nettype wire

@@ -75,3 +75,4 @@ module servant_upduino2
       .q      (q));
 
 endmodule
+`default_nettype wire

@@ -23,3 +23,4 @@ module servant_sim
    dut(wb_clk, wb_rst, q);
 
 endmodule
+`default_nettype wire

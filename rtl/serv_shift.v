@@ -28,3 +28,4 @@ module serv_shift
    assign o_q = (i_right^wrapped) ? i_d : signbit;
 
 endmodule
+`default_nettype wire

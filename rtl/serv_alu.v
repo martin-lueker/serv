@@ -104,3 +104,4 @@ module serv_alu
    end
 
 endmodule
+`default_nettype wire

@@ -120,3 +120,4 @@ module serv_rf_if
    end // else: !if(WITH_CSR)
    endgenerate
 endmodule
+`default_nettype wire

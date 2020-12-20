@@ -159,3 +159,4 @@ module serv_rf_ram_if
 
 
 endmodule
+`default_nettype wire

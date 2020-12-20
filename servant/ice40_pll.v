@@ -38,3 +38,4 @@ module ice40_pll
       end
    endgenerate
 endmodule
+`default_nettype wire

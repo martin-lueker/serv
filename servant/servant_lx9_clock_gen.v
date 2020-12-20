@@ -33,3 +33,4 @@ module servant_lx9_clock_gen
    end
 
 endmodule
+`default_nettype wire

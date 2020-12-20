@@ -26,3 +26,4 @@ module servis
       .q      (q));
 
 endmodule
+`default_nettype wire

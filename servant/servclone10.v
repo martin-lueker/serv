@@ -29,3 +29,4 @@ module servclone10
       .q      (q));
 
 endmodule
+`default_nettype wire

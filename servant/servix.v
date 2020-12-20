@@ -28,3 +28,4 @@ module servix
       .q      (q));
 
 endmodule
+`default_nettype wire

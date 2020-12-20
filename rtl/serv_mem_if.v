@@ -66,3 +66,4 @@ module serv_mem_if
    endgenerate
 
 endmodule
+`default_nettype wire

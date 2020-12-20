@@ -48,3 +48,4 @@ module servclone10_clock_gen
       .vcooverrange  (),
       .vcounderrange ());
 endmodule
+`default_nettype wire

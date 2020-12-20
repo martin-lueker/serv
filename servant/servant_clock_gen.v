@@ -24,3 +24,4 @@ module servant_clock_gen
       end
    endgenerate
 endmodule
+`default_nettype wire

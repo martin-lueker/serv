@@ -30,3 +30,4 @@ module servant_lx9
       .q      (q));
 
 endmodule
+`default_nettype wire

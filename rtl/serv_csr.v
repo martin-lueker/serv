@@ -106,3 +106,4 @@ module serv_csr
    end
 
 endmodule
+`default_nettype wire

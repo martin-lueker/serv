@@ -28,3 +28,4 @@ module servant_timer
       o_irq <= (mtimeslice >= mtimecmp);
    end
 endmodule
+`default_nettype wire

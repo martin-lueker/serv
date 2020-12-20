@@ -85,3 +85,4 @@ module serv_ctrl
    end
 
 endmodule
+`default_nettype wire

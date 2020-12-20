@@ -31,3 +31,4 @@ module servant_ecp5
       .q      (q));
 
 endmodule
+`default_nettype wire

@@ -22,3 +22,4 @@ module servant_tb;
    dut(wb_clk, wb_rst, q);
 
 endmodule
+`default_nettype wire

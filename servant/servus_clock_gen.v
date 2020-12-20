@@ -42,3 +42,4 @@ module servus_clock_gen
    end
 
 endmodule
+`default_nettype wire

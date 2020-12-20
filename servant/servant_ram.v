@@ -39,3 +39,4 @@ module servant_ram
      end
 
 endmodule
+`default_nettype wire

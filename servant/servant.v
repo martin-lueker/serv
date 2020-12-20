@@ -187,3 +187,4 @@ module servant
       .i_dbus_ack   (wb_dbus_ack));
 
 endmodule
+`default_nettype wire
